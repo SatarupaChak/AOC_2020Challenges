@@ -1,2 +1,1 @@
-# AOC_2020Challenges:
-
+# AOC_2020Challenges
